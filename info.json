@@ -1,9 +1,9 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "name": "roy",
-        "location": "india"
-      }
-    ]
-  }
+  "users": [
+    {
+      "id": 1,
+      "name": "roy",
+      "location": "india"
+    }
+  ]
+}
